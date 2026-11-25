@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Astrava Technologies — Ideas into Digital Reality" width="720" />
+<img src="https://raw.githubusercontent.com/astrava-technologies/.github/main/profile/banner.png" alt="Astrava Technologies — Ideas into Digital Reality" width="720" />
 
 <br />
 
