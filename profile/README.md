@@ -81,16 +81,14 @@ We choose tools based on the needs of each project. The technologies below are e
 
 For project inquiries, support, or collaboration:
 
-| | |
-|:--|:--|
-| 🌐 **Website** | `https://your-website-here` |
-| ✉️ **Email** | `your-business-email@domain` |
-| 💼 **LinkedIn** | `https://linkedin.com/company/your-page` |
-| 📸 **Instagram** | `https://instagram.com/your-handle` |
-
----
-
 <div align="center">
+
+<a href="https://your-website-here"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="astravatechnology@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/company/your-page"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/astravatechnologies?hvrq=MWdrN3F2M2V0aXpqZw=="><img src="https://img.shields.io/badge/Instagram-0B1020?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+</div>
 
 **Astrava Technologies** — *Ideas into Digital Reality.*
 
