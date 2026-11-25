@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Astrava Technologies — Ideas into Digital Reality" width="720" />
+<img src="banner.png" alt="Astrava Technologies — Ideas into Digital Reality" width="720" />
 
 <br />
 
